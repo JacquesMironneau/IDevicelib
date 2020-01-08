@@ -1,0 +1,8 @@
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\bin\Debug\netcoreapp3.1\IDeviceLib.deps.json
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\bin\Debug\netcoreapp3.1\IDeviceLib.dll
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\bin\Debug\netcoreapp3.1\IDeviceLib.pdb
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\obj\Debug\netcoreapp3.1\IDeviceLib.csprojAssemblyReference.cache
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\obj\Debug\netcoreapp3.1\IDeviceLib.AssemblyInfoInputs.cache
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\obj\Debug\netcoreapp3.1\IDeviceLib.AssemblyInfo.cs
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\obj\Debug\netcoreapp3.1\IDeviceLib.dll
+C:\Users\Jacques\source\repos\PashmiDev\IDeviceLib\obj\Debug\netcoreapp3.1\IDeviceLib.pdb
